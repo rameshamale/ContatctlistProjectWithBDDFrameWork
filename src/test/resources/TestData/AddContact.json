@@ -1,0 +1,16 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "dateOfBirth": "1990-05-08",
+  "email": "john.doe@example.com",
+  "invalidemail": "ram",
+  "phone": "1234567890",
+  "address": {
+    "street1": "123 Main Street",
+    "street2": "Apt 4B",
+    "city": "Springfield",
+    "stateProvince": "Illinois",
+    "postalCode": "62704",
+    "country": "United States"
+  }
+}

@@ -1,5 +1,4 @@
 Feature: Login functionality
-
   Scenario: Successful login with valid credentials
     Given The user on login page
     When The user enter valid email
